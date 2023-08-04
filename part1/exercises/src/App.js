@@ -7,7 +7,7 @@ import BookList from './components/BookList.js';
 function App() {
   return (
     <div className="App">
-      <MovieList />
+      <MovieList /> boop 
       <ChoresList />
       <BookList />
     </div>
